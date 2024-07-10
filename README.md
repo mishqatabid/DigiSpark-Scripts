@@ -2,7 +2,6 @@
 The Digispark is a tiny development board powered by the ATtiny85 microcontroller, known for its compact size, affordability, and USB interface. With limited I/O pins and flash memory, it is suitable for small-scale projects and offers compatibility with the Arduino IDE, making it accessible to hobbyists and makers.
 
 ![image](https://github.com/mishqatabid/DigiSpark-Scripts/assets/145700715/3b1f1c07-9e53-4504-a3b7-575ef13b3556)
-
 This is a set of hand-written DigiSpark sketches for the Arduino IDE that utilize the DigiKeyboard.h library making the DigiSpark to act as a keyboard and execute a variety of actions.
 
 # INSTRUCTIONS
