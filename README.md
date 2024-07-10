@@ -5,9 +5,9 @@ The Digispark is a tiny development board powered by the ATtiny85 microcontrolle
 This is a set of hand-written DigiSpark sketches for the Arduino IDE that utilize the DigiKeyboard.h library making the DigiSpark to act as a keyboard and execute a variety of actions.
 
 # INSTRUCTIONS
-• To deploy the payload, we will download the [Arduino IDE](https://www.arduino.cc/en/software)
-• Open the IDE, create a new sketch file and write down the code for Digispark Attiny85.
-• The script is then compiled and uploaded on Arduino present in Digispark Attiny85
+- To deploy the payload, we will download the [Arduino IDE](https://www.arduino.cc/en/software)
+- Open the IDE, create a new sketch file and write down the code for Digispark Attiny85.
+- The script is then compiled and uploaded on Arduino present in Digispark Attiny85
 
 # SCRIPTS DESCRIPTION
 
