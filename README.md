@@ -16,8 +16,6 @@ This is a set of hand-written DigiSpark sketches for the Arduino IDE that utiliz
 - **DNS Poisoner**: Injects lines into the Windows hosts file and redirects URLs to wherever you want
 - **Execute_Powershell_Script**: Downloads and executes a powershell script in hidden mode
 - **Fork_Bomb**: Opens up an obfuscated windows terminal and makes it multiply itself uncontrolably causing the machine to either lock or crash
-- **Rapid_Shell**: Seamlessly executes metasploit payloads through powershell
-- **Reverse_Shell**: Opens a netcat reverse shell from a Windows machine to the host
 - **RickRoll_Update**: Plays Never Gonna Give you up while performing a fake windows update
 - **Silly_Mouse**: Switches primary and secondary mouse buttons, display mouse trails, decreases mouse speed and other mouse related pranks
 - **Talker**: Makes the computer speak out a message using powershell
